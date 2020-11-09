@@ -1,0 +1,23 @@
+Página principal - não executa nada, serve só pra fazer um history.push
+
+Pagina para escrever 
+
+GET: /*
+
+Busca conteúdo da Página
+
+Se não achar nada, cria uma Página
+
+--------
+
+Buscar Pagina
+
+Salvar Alteração da Pagina
+
+--------
+
+pro futuro, conseguir colocar formatação, emojis, codigo
+
+--------
+
+teste/ ou teste serem a mesma coisa
